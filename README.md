@@ -84,3 +84,6 @@ If the code is helpful for your research, please consider citing our paper.
   &nbsp;&nbsp;&nbsp;&nbsp;year={2018}, <br />
   &nbsp;&nbsp;&nbsp;&nbsp;publisher={IEEE} <br />
 }
+
+## Contact
+Any query, please email at ymjin@cse.cuhk.edu.hk and qdou@cse.cuhk.edu.hk
