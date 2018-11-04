@@ -74,10 +74,13 @@ Put it in `models/ResNet-50/`.
 ## Citation
 If the code is helpful for your research, please consider citing our paper.
 
-@article{jin2017sv,  
-&nbsp;&nbsp;&nbsp;&nbsp;  title={SV-RCNet: Workflow Recognition from Surgical Videos using Recurrent Convolutional Network},    
-&nbsp;&nbsp;&nbsp;&nbsp;  author={Jin, Yueming and Dou, Qi and Chen, Hao and Yu, Lequan and Qin, Jing and Fu, Chi-Wing and Heng, Pheng-Ann}, 
-&nbsp;&nbsp;&nbsp;&nbsp;  journal={IEEE Transactions on Medical Imaging},    
-&nbsp;&nbsp;&nbsp;&nbsp;  year={2017},    
-&nbsp;&nbsp;&nbsp;&nbsp;  publisher={IEEE}    
+@article{jin2018sv,
+  title={SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network},
+  author={Jin, Yueming and Dou, Qi and Chen, Hao and Yu, Lequan and Qin, Jing and Fu, Chi-Wing and Heng, Pheng-Ann},
+  journal={IEEE transactions on medical imaging},
+  volume={37},
+  number={5},
+  pages={1114--1126},
+  year={2018},
+  publisher={IEEE}
 }
