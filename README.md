@@ -72,9 +72,9 @@ Put it in `models/ResNet-50/`.
    ```
    
 ## Citation
-If the code is helpful for your research, please consider citing our paper. 
+If you make use of the code, please cite the paper in resulting publications.
 ```
-@article{jin2018sv, <br />
+@article{jin2018sv,
   title={SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network}, <br />
   author={Jin, Yueming and Dou, Qi and Chen, Hao and Yu, Lequan and Qin, Jing and Fu, Chi-Wing and Heng, Pheng Ann}, 
   journal={IEEE transactions on medical imaging},
