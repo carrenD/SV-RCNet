@@ -73,7 +73,7 @@ Put it in `models/ResNet-50/`.
    
 ## Citation
 If the code is helpful for your research, please consider citing our paper. 
-
+```
 @article{jin2018sv, <br />
   &nbsp;&nbsp;&nbsp;&nbsp;title={SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network}, <br />
   &nbsp;&nbsp;&nbsp;&nbsp;author={Jin, Yueming and Dou, Qi and Chen, Hao and Yu, Lequan and Qin, Jing and Fu, Chi-Wing and Heng, Pheng-Ann}, <br />
@@ -84,6 +84,6 @@ If the code is helpful for your research, please consider citing our paper.
   &nbsp;&nbsp;&nbsp;&nbsp;year={2018}, <br />
   &nbsp;&nbsp;&nbsp;&nbsp;publisher={IEEE} <br />
 }
-
+```
 ## Contact
 Any query, please email at ymjin@cse.cuhk.edu.hk and qdou@cse.cuhk.edu.hk
